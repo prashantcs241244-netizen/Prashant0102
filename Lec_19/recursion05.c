@@ -1,4 +1,4 @@
-//to check palindrome using recursion
+//to check palindrome string using recursion
 #include<stdio.h>
 #include <string.h>
 int isPalindrome(char str[], int start, int end) {
